@@ -1,5 +1,5 @@
 import Home from "./pages/Home/home"
-// import Footer from "./static/footer/footer"
+import Footer from "./static/footer/footer"
 import Header from "./static/Header/header"
 
 const App = ()=>{
@@ -7,7 +7,7 @@ const App = ()=>{
     <div>
       <Header/>
       <Home/>
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   )
 }
