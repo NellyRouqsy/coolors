@@ -1,5 +1,5 @@
 import Home from "./pages/Home/home"
-import Footer from "./static/footer/footer"
+import Footer from "./static/Footer/footer"
 import Header from "./static/Header/header"
 
 const App = ()=>{
